@@ -184,6 +184,14 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1024px-2022_Disney_Channel_logo.svg.png"
   },
   {
+    "streamUrl": "https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd",
+    "streamType": "DASH",
+    "drmKeyId": "39cebece8b36640f9ba3f248ecfdf86a",
+    "drmKey": "fad936249e036830aa5bef41bec05326",
+    "name": "Disney XD",
+    "logoUrl": "https://i.imgur.com/9onUNhZ.png"
+  },
+  {
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd",
     "streamType": "DASH",
     "drmKeyId": "3ff02fcd80c2e3230c52ae70fe903410",
