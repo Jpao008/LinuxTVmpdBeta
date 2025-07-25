@@ -177,6 +177,15 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/1024px-Cinemo_logo_vectorized.svg.png"
   },
   {
+    "name": "CLTV 36",
+    "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "DASH_WIDEVINE",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "drmKeyId": null,
+    "drmKey": null,
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759"
+  },
+  {
     "streamUrl": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd",
     "streamType": "DASH",
     "drmKeyId": "0f853706412b11edb8780242ac120002",
@@ -475,6 +484,15 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/NBA_TV_Philippines_logo.svg/1024px-NBA_TV_Philippines_logo.svg.png"
   },
   {
+    "name": "NET 25",
+    "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "DASH_WIDEVINE",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "drmKeyId": null,
+    "drmKey": null,
+    "logoUrl": "https://i.imgur.com/pPPubX5.png"
+  },
+  {
     "streamUrl": "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nhk_japan.mpd",
     "streamType": "DASH",
     "drmKeyId": "3d6e9d4de7d7449aadd846b7a684e564",
@@ -737,6 +755,15 @@
     "drmKey": "6e0f50a12f36599a55073868f814e81e",
     "name": "UAAP Varsity Channel",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6f/Uaapvarsitychannel.png"
+  },
+  {
+    "name": "UNTV",
+    "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "DASH_WIDEVINE",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "drmKeyId": null,
+    "drmKey": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/300px-UNTV-Logo-2016.svg.png"
   },
   {
     "streamUrl": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd",
