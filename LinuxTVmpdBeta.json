@@ -136,6 +136,14 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1024px-Cartoon_Network_2010_logo.svg.png"
   },
   {
+    "streamUrl": "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celmovie_pinoy_sd.mpd",
+    "streamType": "DASH",
+    "drmKeyId": "0f8537d8412b11edb8780242ac120002",
+    "drmKey": "2ffd7230416150fd5196fd7ea71c36f3",
+    "name": "Celestial Movies Pinoy",
+    "logoUrl": "https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Celestial_Movies_Pinoy_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20210214082729"
+  },
+  {
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd",
     "streamType": "DASH",
     "drmKeyId": "efdb2a8d39151cc39f4b51d762cf9c10",
