@@ -176,6 +176,14 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Depedtvlogo.png"
   },
   {
+    "streamUrl": "https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd",
+    "streamType": "DASH",
+    "drmKeyId": "be9caaa813c5305e761c66ac63645901",
+    "drmKey": "3d40f2990ec5362ca5be3a3c9bb8f8b4",
+    "name": "Disney Channel",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1024px-2022_Disney_Channel_logo.svg.png"
+  },
+  {
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd",
     "streamType": "DASH",
     "drmKeyId": "3ff02fcd80c2e3230c52ae70fe903410",
