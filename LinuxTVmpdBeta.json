@@ -192,6 +192,14 @@
     "logoUrl": "https://i.imgur.com/9onUNhZ.png"
   },
   {
+    "streamUrl": "https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd",
+    "streamType": "DASH",
+    "drmKeyId": "221e176f3dfabb84ff506d65dd93b09f",
+    "drmKey": "6a97b8d4beed4d4b1697c1488706c6ca",
+    "name": "Disney JR.",
+    "logoUrl": "https://i.imgur.com/Q6swMsk.png"
+  },
+  {
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd",
     "streamType": "DASH",
     "drmKeyId": "3ff02fcd80c2e3230c52ae70fe903410",
