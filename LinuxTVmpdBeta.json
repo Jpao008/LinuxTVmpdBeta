@@ -400,6 +400,14 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/NBA_TV_Philippines_logo.svg/1024px-NBA_TV_Philippines_logo.svg.png"
   },
   {
+    "streamUrl": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd",
+    "streamType": "DASH",
+    "drmKeyId": "84077d18bcf234a42de3745be106a87f",
+    "drmKey": "aee3069c062ec8ee6bfdd32985f287ef",
+    "name": "NBA TV USA",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1024px-NBA_TV.svg.png"
+  },
+  {
     "streamUrl": "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nhk_japan.mpd",
     "streamType": "DASH",
     "drmKeyId": "3d6e9d4de7d7449aadd846b7a684e564",
