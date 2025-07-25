@@ -264,6 +264,15 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ab/Globe_Trekker_logo.jpg"
   },
   {
+    "name": "GTV",
+    "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "DASH_WIDEVINE",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "drmKeyId": null,
+    "drmKey": null,
+    "logoUrl": "https://i.imgur.com/geuq18u.png"
+  },
+  {
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd",
     "streamType": "DASH",
     "drmKeyId": "c95ed4c44b0b4f7fa1c6ebbbbaab21a1",
