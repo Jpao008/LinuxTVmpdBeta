@@ -16,6 +16,15 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1024px-ABC_Australia_logo.svg.png"
   },
   {
+    "name": "ALL TV",
+    "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "DASH_WIDEVINE",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "drmKeyId": null,
+    "drmKey": null,
+    "logoUrl": "https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp"
+  },
+  {
     "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd",
     "streamType": "DASH",
     "drmKeyId": "4bbdc78024a54662854b412d01fafa16",
@@ -262,6 +271,15 @@
     "drmKey": "2fb39ab3f55333d5fa3e830ebf99ec16",
     "name": "Globe Trekker",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ab/Globe_Trekker_logo.jpg"
+  },
+  {
+    "name": "GMA 7",
+    "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "DASH_WIDEVINE",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "drmKeyId": null,
+    "drmKey": null,
+    "logoUrl": "https://i.imgur.com/Cu1tAY8.png"
   },
   {
     "name": "GTV",
