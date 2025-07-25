@@ -574,6 +574,15 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1024px-Pinoy_Box_Office_logo.svg.png"
   },
   {
+    "name": "Pinoy Xtreme Channel",
+    "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "DASH_WIDEVINE",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "drmKeyId": null,
+    "drmKey": null,
+    "logoUrl": "https://i.imgur.com/GlSP8PX.png"
+  },
+  {
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd",
     "streamType": "DASH",
     "drmKeyId": "9bfeb5068725617dbad6338473da6d10",
