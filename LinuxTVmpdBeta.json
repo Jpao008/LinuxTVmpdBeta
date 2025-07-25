@@ -396,6 +396,15 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IQIYI_logo_(2022).svg/1024px-IQIYI_logo_(2022).svg.png"
   },
   {
+    "name": "Jeepney TV",
+    "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "DASH_WIDEVINE",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "drmKeyId": null,
+    "drmKey": null,
+    "logoUrl": "https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526"
+  },
+  {
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd",
     "streamType": "DASH",
     "drmKeyId": "aa48b28bd723f91214887df6ed9fad10",
