@@ -171,6 +171,24 @@
     "logoUrl": "https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Celestial_Movies_Pinoy_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20210214082729"
   },
   {
+  "streamUrl": "http://xxip9.top:8080/live/robertuk/robertuk1@1/119421.m3u8",
+  "streamType": "HLS",
+  "licenseUrl": null,
+  "drmKeyId": null,
+  "drmKey": null,
+  "name": "Cinebox Blockbuster",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/502px-Logo_Cin%C3%A9box.svg.png?20110512201804"
+  },
+  {
+  "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+  "streamType": "DASH_WIDEVINE",
+  "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+  "drmKeyId": null,
+  "drmKey": null,
+  "name": "Cinema World",
+  "logoUrl": "https://i.ibb.co/y4q1ttt/cinemaworld-2-1.png"
+  },
+  {
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd",
     "streamType": "DASH",
     "drmKeyId": "efdb2a8d39151cc39f4b51d762cf9c10",
@@ -309,13 +327,13 @@
     "logoUrl": "https://i.imgur.com/Cu1tAY8.png"
   },
   {
-    "name": "GTV",
-    "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com",
-    "streamType": "DASH_WIDEVINE",
-    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
-    "drmKeyId": null,
-    "drmKey": null,
-    "logoUrl": "https://i.imgur.com/geuq18u.png"
+  "streamUrl": "http://xxip9.top:8080/live/robertuk/robertuk1@1/101825.m3u8",
+  "streamType": "HLS",
+  "licenseUrl": null,
+  "drmKeyId": null,
+  "drmKey": null,
+  "name": "GMA Life TV",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/1024px-GMA_Life_TV_logo.png"
   },
   {
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd",
@@ -324,6 +342,15 @@
     "drmKey": "47635b8e885e19f2ccbdff078c207058",
     "name": "GMA Pinoy TV",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png"
+  },
+  {
+    "name": "GTV",
+    "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "DASH_WIDEVINE",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "drmKeyId": null,
+    "drmKey": null,
+    "logoUrl": "https://i.imgur.com/geuq18u.png"
   },
   {
     "streamUrl": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd",
