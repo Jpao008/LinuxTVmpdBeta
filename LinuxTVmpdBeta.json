@@ -146,6 +146,14 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1024px-CNN_Logo_%282014%29.svg.png"
   },
   {
+    "streamUrl": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_cnnhd.mpd",
+    "streamType": "DASH",
+    "drmKeyId": "900c43f0e02742dd854148b7a75abbec",
+    "drmKey": "da315cca7f2902b4de23199718ed7e90",
+    "name": "CNN Philippines",
+    "logoUrl": "https://i.imgur.com/JOg1GGl.png"
+  },
+  {
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd",
     "streamType": "DASH",
     "drmKeyId": "1a05bebf706408431a390c3f9f40f410",
