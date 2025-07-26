@@ -239,6 +239,15 @@
     "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759"
   },
   {
+  "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001144/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+  "streamType": "DASH_WIDEVINE",
+  "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+  "drmKeyId": null,
+  "drmKey": null,
+  "name": "Crime & Investigation",
+  "logoUrl": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png"
+  },
+  {
     "streamUrl": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd",
     "streamType": "DASH",
     "drmKeyId": "0f853706412b11edb8780242ac120002",
