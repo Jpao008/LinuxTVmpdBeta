@@ -458,6 +458,15 @@
     "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg/revision/latest/scale-to-width-down/1000?cb=20240711133443"
   },
   {
+    "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "DASH",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "drmKeyId": null,
+    "drmKey": null,
+    "name": "IBC 13",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345"
+  },
+  {
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd",
     "streamType": "DASH",
     "drmKeyId": "7ef7e913ce85a1131b27036069169a10",
