@@ -294,6 +294,15 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1024px-DZMM_TeleRadyo.svg.png"
   },
   {
+  "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001325/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+  "streamType": "DASH_WIDEVINE",
+  "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+  "drmKeyId": null,
+  "drmKey": null,
+  "name": "Euro Sports",
+  "logoUrl": "https://i.ibb.co/mJPQPHH/IMG-20241113-073939.png"
+  },
+  {
     "streamUrl": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd",
     "streamType": "DASH",
     "drmKeyId": "971ebbe2d887476398e97c37e0c5c591",
@@ -626,6 +635,15 @@
     "drmKeyId": null,
     "drmKey": null,
     "logoUrl": "https://i.imgur.com/GlSP8PX.png"
+  },
+  {
+  "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+  "streamType": "DASH_WIDEVINE",
+  "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+  "drmKeyId": null,
+  "drmKey": null,
+  "name": "Premier Football",
+  "logoUrl": "https://static.wikia.nocookie.net/russel/images/4/44/Premier_Football_Logo_November_2020.png/revision/latest/scale-to-width-down/250?cb=20220402065521"
   },
   {
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd",
