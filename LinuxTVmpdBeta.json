@@ -179,6 +179,15 @@
     "logoUrl": "https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Celestial_Movies_Pinoy_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20210214082729"
   },
   {
+  "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001244/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+  "streamType": "DASH_WIDEVINE",
+  "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+  "drmKeyId": null,
+  "drmKey": null,
+  "name": "Celestial Classic Movies",
+  "logoUrl": "https://i.imgur.com/4JCkzjl.png"
+  },
+  {
   "streamUrl": "http://xxip9.top:8080/live/robertuk/robertuk1@1/119421.m3u8",
   "streamType": "HLS",
   "licenseUrl": null,
@@ -459,7 +468,7 @@
   },
   {
     "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com",
-    "streamType": "DASH",
+    "streamType": "DASH_WIDEVINE",
     "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
     "drmKeyId": null,
     "drmKey": null,
