@@ -57,6 +57,15 @@
     "logoUrl": "https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/ANIMEH/large_white.png?auto=webp&ver=1&auto=webp&ver=1"
   },
   {
+  "streamUrl": "https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd",
+  "streamType": "DASH",
+  "licenseUrl": null,
+  "drmKeyId": "f2c313fce55344e5a52389741d1f53f8",
+  "drmKey": "bae1e47db562b66895beb8fccdf2ad8a",
+  "name": "Aniplus Indie",
+  "logoUrl": "https://i.imgur.com/5gMIjA2.png"
+  },
+  {
     "streamUrl": "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd",
     "streamType": "DASH",
     "drmKeyId": "13815d0fa026441ea7662b0c9de00bcf",
