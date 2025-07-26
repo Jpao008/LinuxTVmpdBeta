@@ -765,9 +765,8 @@
   {
   "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd",
   "streamType": "DASH",
-  "licenseUrl": null,
-  "drmKeyId": "4befdfc1bcadbd7f287deed40e38cb10",
-  "drmKey": "b0dad774b713e4b29fd27e147cae7133",
+  "drmKeyId": "4bef7fc1bcb6bd7f287def940e38cb10",
+  "drmKey": "b0dadd74b713e4b29fd27e147cae7133",
   "name": "Sky News",
   "logoUrl": "https://i.imgur.com/8p0dh0V.png"
   },
