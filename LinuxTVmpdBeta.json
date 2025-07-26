@@ -835,6 +835,15 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Thrill_logo.svg/1024px-Thrill_logo.svg.png"
   },
   {
+  "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd",
+  "streamType": "DASH",
+  "licenseUrl": null,
+  "drmKeyId": "942ec156203b2aca1ddf3498f663c110",
+  "drmKey": "7f5e6c69698ddfbcb74553431b2b1c98",
+  "name": "TLC",
+  "logoUrl": "https://logo.iptveditor.com/tlc.png"
+  },
+  {
     "streamUrl": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd",
     "streamType": "DASH",
     "drmKeyId": "96701d297d1241e492d41c397631d857",
