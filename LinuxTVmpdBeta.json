@@ -294,14 +294,6 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1024px-DZMM_TeleRadyo.svg.png"
   },
   {
-  "streamUrl": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd",
-  "streamType": "DASH",
-  "drmKeyId": "b7299ea0af8945479cd2f287ee7d530e",
-  "drmKey": "b8ae7679cf18e7261303313b18ba7a14",
-  "name": "Food Network",
-  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png"
-  },
-  {
   "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001325/manifest.mpd?virtualDomain=001.live_hls.zte.com",
   "streamType": "DASH_WIDEVINE",
   "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
@@ -317,6 +309,14 @@
     "drmKey": "472aa631b1e671070a4bf198f43da0c7",
     "name": "Fashion TV",
     "logoUrl": "https://i.imgur.com/Zd5zm7C.png"
+  },
+   {
+  "streamUrl": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd",
+  "streamType": "DASH",
+  "drmKeyId": "b7299ea0af8945479cd2f287ee7d530e",
+  "drmKey": "b8ae7679cf18e7261303313b18ba7a14",
+  "name": "Food Network",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png"
   },
   {
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd",
