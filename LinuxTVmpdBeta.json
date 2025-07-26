@@ -745,6 +745,15 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sari-Sari_Channel_logo.svg/800px-Sari-Sari_Channel_logo.svg.png"
   },
   {
+  "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd",
+  "streamType": "DASH",
+  "licenseUrl": null,
+  "drmKeyId": "4befdfc1bcadbd7f287deed40e38cb10",
+  "drmKey": "b0dad774b713e4b29fd27e147cae7133",
+  "name": "Sky News",
+  "logoUrl": "https://i.imgur.com/8p0dh0V.png"
+  },
+  {
     "name": "SMNI Channel",
     "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001155/manifest.mpd?virtualDomain=001.live_hls.zte.com",
     "streamType": "DASH_WIDEVINE",
