@@ -485,6 +485,15 @@
     "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg/revision/latest/scale-to-width-down/1000?cb=20240711133443"
   },
   {
+  "streamUrl": "https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist_1280x720.m3u8",
+  "streamType": "HLS",
+  "licenseUrl": null,
+  "drmKeyId": null,
+  "drmKey": null,
+  "name": "Horror Movies",
+  "logoUrl": "https://e7.pngegg.com/pngimages/764/685/png-clipart-youtube-horror-film-scary-movie-comedy-horror-television-text.png"
+  },
+  {
     "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com",
     "streamType": "DASH_WIDEVINE",
     "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
