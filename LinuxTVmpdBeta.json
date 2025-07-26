@@ -121,6 +121,14 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png"
   },
   {
+    "streamUrl": "https://fl3.moveonjoy.com/BOOMERANG/index.m3u8",
+    "streamType": "HLS",
+    "drmKeyId": null,
+    "drmKey": null,
+    "name": "Boomerang",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1024px-Boomerang_2014_logo.svg.png"
+  },
+  {
     "streamUrl": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd",
     "streamType": "DASH",
     "drmKeyId": "d273c085f2ab4a248e7bfc375229007d",
@@ -143,6 +151,15 @@
     "drmKey": "89c5ff9f8e65c7fe966afbd2f9128e5f",
     "name": "Cartoon Network",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1024px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "name": "Cartoonito",
+    "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "DASH_WIDEVINE",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "drmKeyId": null,
+    "drmKey": null,
+    "logoUrl": "https://i.imgur.com/x1wehbs.png"
   },
   {
     "streamUrl": "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celmovie_pinoy_sd.mpd",
@@ -816,20 +833,4 @@
     "name": "WWE Network",
     "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png"
   },
-  {
-    "streamUrl": "https://fl3.moveonjoy.com/BOOMERANG/index.m3u8",
-    "streamType": "HLS",
-    "drmKeyId": null,
-    "drmKey": null,
-    "name": "Boomerang",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1024px-Boomerang_2014_logo.svg.png"
-  },
-  {
-    "streamUrl": "https://ott.athenatv.net/stream/phcathenatv/gtv/master.m3u8?u=phc-free&p=70ebfe055fb9df4f9b91b21907a517a27f6c97076aedda2c268712ec6766bf52",
-    "streamType": "HLS",
-    "drmKeyId": null,
-    "drmKey": null,
-    "name": "GTV",
-    "logoUrl": "https://i.imgur.com/geuq18u.png"
-  }
 ]
